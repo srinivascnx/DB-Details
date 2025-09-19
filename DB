@@ -1,3 +1,10 @@
 mongodb://commoncrmdms:commoncrmdmspwd@docdb-common-crm-dps.cluster-cejxtcrkhjcp.ap-south-1.docdb.amazonaws.com:27017/?directConnection=true&tls=true&tlsCAFile=C%3A%5CUsers%5Csnandivada%5CDesktop%5Cpgadmin%5Cglobal-bundle.pem
 
+PROD DB LZ
+mongodb://commoncrmdms:commoncrmdmspwd@docdb-common-crm-dps.cluster-cvmg4ymggki0.ap-south-1.docdb.amazonaws.com:27017/test?ssl=true&tlsAllowInvalidHostnames=true&retryWrites=false
 
+SVOC : mongodb://documentdbuser:documentdbuser-crm@docdb-svoc-production.cluster-cvmg4ymggki0.ap-south-1.docdb.amazonaws.com:27017/svoc-db
+
+NON PROD lz
+
+mongodb://documentdbuser:documentdbuser-crm@common-crm-preprod-documentdb.cluster-c3swiqo2qkku.ap-south-1.docdb.amazonaws.com:27017/svoc-db-preprod
