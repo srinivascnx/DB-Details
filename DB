@@ -8,3 +8,9 @@ SVOC : mongodb://documentdbuser:documentdbuser-crm@docdb-svoc-production.cluster
 NON PROD lz
 
 mongodb://documentdbuser:documentdbuser-crm@common-crm-preprod-documentdb.cluster-c3swiqo2qkku.ap-south-1.docdb.amazonaws.com:27017/svoc-db-preprod
+
+MI-DB
+mongodb://commoncrmmi:commoncrmmipwd@common-crm-docdb-common-mi-production.cluster-cvmg4ymggki0.ap-south-1.docdb.amazonaws.com:27017/mi-db
+docdb-common-mi-production.cluster-cvmg4ymggki0.ap-south-1.docdb.amazonaws.com:27017
+
+
