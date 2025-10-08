@@ -19,6 +19,11 @@ commonservices-prod-pricing-db.cvm2euk887z9.ap-south-1.rds.amazonaws.com
 
 common-pricing
 
+
 pricing_owner
 
 pricing_owner$535
+
+Select distinct * from sync_job_log order by created_date desc limit 25
+
+select * from sync_job_log order by created_date desc limit 10
