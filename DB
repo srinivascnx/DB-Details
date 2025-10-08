@@ -13,4 +13,12 @@ MI-DB
 mongodb://commoncrmmi:commoncrmmipwd@common-crm-docdb-common-mi-production.cluster-cvmg4ymggki0.ap-south-1.docdb.amazonaws.com:27017/mi-db
 docdb-common-mi-production.cluster-cvmg4ymggki0.ap-south-1.docdb.amazonaws.com:27017
 
+Pricing DB
 
+commonservices-prod-pricing-db.cvm2euk887z9.ap-south-1.rds.amazonaws.com
+
+common-pricing
+
+pricing_owner
+
+pricing_owner$535
