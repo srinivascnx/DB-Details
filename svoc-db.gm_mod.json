@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "678953c03efcb04421079f79"
+  },
+  "principalMapCode": 1,
+  "modelCategoryCode": "001",
+  "lineCode": "A2",
+  "modelCode": "VE",
+  "modelDesc": "e VITARA",
+  "createdBy": "294519",
+  "createdDate": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "modifiedBy": "294519",
+  "modifiedDate": {
+    "$date": "2025-01-17T00:00:00.000Z"
+  },
+  "svarCode": "A8I061E",
+  "validYN": "Y",
+  "orderBy": {
+    "$numberLong": "80"
+  },
+  "modOrd": {
+    "$numberLong": "80"
+  },
+  "modelDescRPT": "VE",
+  "familyModelCode": "VE",
+  "familyModelDesc": "e VITARA",
+  "testDriveYN": "N",
+  "channel": "EXC",
+  "stdModelCode": "VE",
+  "stdModelDesc": "E VITARA",
+  "svocCreatedTime": {
+    "$date": "2025-01-16T18:45:20.150Z"
+  },
+  "svocLastUpdatedTime": {
+    "$date": "2025-10-07T19:30:29.137Z"
+  },
+  "_class": "com.marutisuzuki.shared.domain.models.GmMod"
+}]
