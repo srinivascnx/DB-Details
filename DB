@@ -27,3 +27,21 @@ pricing_owner$535
 Select distinct * from sync_job_log order by created_date desc limit 25
 
 select * from sync_job_log order by created_date desc limit 10
+
+
+########
+
+NEXA	 webRefId	Scenario
+7406361521	WEB_20258412472429	Created_Date: older than 6 months and   PRE_BOOKING : True
+7406361521	WEB_20258412472774	Created_Date: older than 6 months and  PRE_BOOKING : True
+7406361521	WEB_20258412472936	Created_Date: less than 6 months and PRE_BOOKING : True
+7406361521	WEB_20258412473543	Created_Date: less than 6 months and PRE_BOOKING : True
+7406361521	WEB_20258412473646	Created_Date: less than 6 months and  PRE_BOOKING : True
+ 	 	 
+Arena	 	 
+7406361521	WEB_20258412473938	Created_Date: older than 6 months and  PRE_BOOKING : True
+7406361521	WEB_20258412477372	Created_Date: older than 6 months and PRE_BOOKING : True
+7406361521	WEB_20258412481635	Created_Date: less than 6 months and PRE_BOOKING : True
+7406361521	WEB_20258412481721	Created_Date: less than 6 months  and PRE_BOOKING : True
+7406361521	WEB_20258412481831	Created_Date: less than 6 months and  PRE_BOOKING : True
+
