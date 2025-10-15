@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "68b05f51ee115b32e5c7ace3"
+  },
+  "MAST_TYPE": "MODEL_CODE",
+  "MAST_SEQ": "22",
+  "MAST_CODE": "VICTORIS",
+  "MAST_DESC": "Victoris",
+  "EFF_FROM_DT": {
+    "$date": "2025-08-26T00:00:00.000Z"
+  },
+  "CREATED_DATE": {
+    "$date": "2025-08-28T13:53:21.225Z"
+  },
+  "MAST_APPLICABILITY": "A",
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-08-28T13:53:21.225Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmAccCommonMastMsgpDoc"
+}]

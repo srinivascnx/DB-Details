@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "68ed01d11975805017518fda"
+  },
+  "EPC_MOD_CD": "Y17",
+  "EPC_MOD_DESC": "VICTORIS",
+  "MOD_START_DATE": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "CREATED_DATE": {
+    "$date": "2025-10-04T00:30:22.770Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-10-13T13:46:21.890Z"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-10-04T00:30:22.770Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmEpcModelMasterMsgpDoc"
+}]
