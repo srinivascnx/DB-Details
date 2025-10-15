@@ -1,0 +1,407 @@
+[{
+  "_id": {
+    "$oid": "68e06ac6879f602a1584bd68"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "NEW_RECORD": true,
+  "IN_DRAFT": false,
+  "NO_SHOW": false,
+  "SHOW_IN_PROD_CMS": true,
+  "PM_PART": true,
+  "PI_PM_PART_MRP": false,
+  "PM_ACC_DIM_MAST": false,
+  "PM_EPC_PART_MAPPING": true,
+  "PM_ACC_PART_MODEL_MAPPING": false,
+  "PM_PART_DESCRIPTION": false,
+  "PM_PART_MEDIA": false,
+  "STATUS": true,
+  "DEALER_MAP_CD": 1,
+  "PART_NUM": "55910M76T00",
+  "PRINCIPAL_MAP_CD": 1,
+  "CATG_CD": "M",
+  "PART_DESC": "PAD SET",
+  "APPLY_MODEL_CD": "D22D35YFG",
+  "UOM_CD": "NO",
+  "SELL_PRICE": "0.000000",
+  "MRP_1": "2442.500000",
+  "MIN_ORD_QTY": "1.000",
+  "LANDED_COST": "0.000000",
+  "PURCHASE_PRICE": "0.000000",
+  "EFF_FROM_DATE": {
+    "$date": "2022-09-05T00:00:00.000Z"
+  },
+  "CREATED_DATE": {
+    "$date": "2025-10-04T00:31:02.198Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-10-14T10:39:33.448Z"
+  },
+  "ROOT_PART_NUM": "55910M76T00",
+  "SEQ_NUM": 38,
+  "VOR_YN": "N",
+  "MCAT_CD": "O",
+  "TAG_CD": "1",
+  "MUL_YN": "Y",
+  "FTR_MANDATORY_YN": "N",
+  "WARR_PART_YN": "N",
+  "ALLOW_DECIMAL_QTY": "Y",
+  "PART_QTY_MAX": 5,
+  "HS_CODE": "87083000",
+  "PART_TAX_CD": "B",
+  "ACC_SUBCATG_CD": "BRPAD",
+  "ACC_FLOW_YN": "Y",
+  "ACC_WEB_PART_DESC": "PAD SET",
+  "PART_WEB_CATG": "W_BRS",
+  "PART_PARENT_CATG": "P_SNB",
+  "UNIT": "U",
+  "QTY": "1.00",
+  "UNIT_RATE": "2442.50",
+  "ADDRESS": "Manufacturer's Name and Address :/Maruti Suzuki India Limited/#1,Nelson Mandela Road,Vasant Kunj, New Delhi-110070",
+  "PM_EPC_PART_MAPPING_TEMP": [
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "M15D ZXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C CNG VXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C CNG LXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C 5MT ZXI(O)",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "M15D VXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "M15D ZXI+",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C 5MT VXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C 5MT ZXI+",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C CNG ZXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C 5MT ZXI+(O)",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "M15D ZXI(O)",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C 5MT LXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "K15C 5MT ZXI",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "Y17",
+      "EPC_VARIANT_CD": "M15D ZXI+(O)",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2025-08-20T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "6AT ZETA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "6AT ALPHA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT ALPHA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "M15D ALPHA +",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "M15D ZETA +",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT SIGMA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT DELTA CNG",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-12-01T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-12-01T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "6AT DELTA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT ZETA CNG",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-12-01T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-12-01T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT DELTA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT ZETA",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    },
+    {
+      "EPC_MOD_CD": "YFG",
+      "EPC_VARIANT_CD": "5MT ALPHA AWD",
+      "EPC_VARIANT_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_START_DATE": {
+        "$date": "2022-08-31T00:00:00.000Z"
+      },
+      "MAP_END_DATE": {
+        "$date": "2099-12-31T00:00:00.000Z"
+      }
+    }
+  ],
+  "ACTIVE": "Y",
+  "MEDIA_ACTIVE": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-10-14T18:44:42.153Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.ChangeManagementTempModelArchiveDoc"
+}]
