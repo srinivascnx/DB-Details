@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "68b05fb7f6d72d56674754e5"
+  },
+  "MODEL_CODE": "VICTORIS",
+  "MODEL_VARIANT_CODE": "L",
+  "MODEL_FROM_YR": "2025",
+  "MODEL_TO_YR": "9999",
+  "CREATED_DATE": {
+    "$date": "2025-08-29T04:30:24.139Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-09-21T22:10:57.024Z"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-08-29T04:30:24.139Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmAccModelVarMastMsgpDoc"
+},
+{
+  "_id": {
+    "$oid": "68b05fb7f6d72d56674754e3"
+  },
+  "MODEL_CODE": "VICTORIS",
+  "MODEL_VARIANT_CODE": "Z",
+  "MODEL_FROM_YR": "2025",
+  "MODEL_TO_YR": "9999",
+  "CREATED_DATE": {
+    "$date": "2025-08-29T04:30:25.155Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-09-21T22:10:57.009Z"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-08-29T04:30:25.155Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmAccModelVarMastMsgpDoc"
+},
+{
+  "_id": {
+    "$oid": "68b05fb7f6d72d56674754e2"
+  },
+  "MODEL_CODE": "VICTORIS",
+  "MODEL_VARIANT_CODE": "V",
+  "MODEL_FROM_YR": "2025",
+  "MODEL_TO_YR": "9999",
+  "CREATED_DATE": {
+    "$date": "2025-08-29T04:30:24.845Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-09-21T22:10:56.994Z"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-08-29T04:30:24.845Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmAccModelVarMastMsgpDoc"
+},
+{
+  "_id": {
+    "$oid": "68b05fb7f6d72d56674754e6"
+  },
+  "MODEL_CODE": "VICTORIS",
+  "MODEL_VARIANT_CODE": "ALL",
+  "MODEL_FROM_YR": "2025",
+  "MODEL_TO_YR": "9999",
+  "CREATED_DATE": {
+    "$date": "2025-08-29T04:30:23.998Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-09-21T22:10:56.980Z"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-08-29T04:30:23.998Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmAccModelVarMastMsgpDoc"
+},
+{
+  "_id": {
+    "$oid": "68b05fb7f6d72d56674754e4"
+  },
+  "MODEL_CODE": "VICTORIS",
+  "MODEL_VARIANT_CODE": "Z+",
+  "MODEL_FROM_YR": "2025",
+  "MODEL_TO_YR": "9999",
+  "CREATED_DATE": {
+    "$date": "2025-08-29T04:30:23.878Z"
+  },
+  "MODIFIED_DATE": {
+    "$date": "2025-09-21T22:10:56.946Z"
+  },
+  "STAGING_APPROVED": true,
+  "PRODUCTION_APPROVED": true,
+  "ACTIVE_FLAG": "Y",
+  "dbCreatedTime": {
+    "$date": "2025-08-29T04:30:23.878Z"
+  },
+  "_class": "com.marutisuzuki.partmaster.domain.models.PmAccModelVarMastMsgpDoc"
+}]
