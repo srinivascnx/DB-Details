@@ -167,3 +167,15 @@ MH48AT0635
 "GM_STATE"
 "GST_CHARGE"
 "SM_SCHEME_MASTER"
+
+
+
+
+select * from auth_group_master where name='INBOUND-CRM-L2-DEALER'
+
+select * from auth_group_users where auth_group_fkid=57 and active=true
+
+select * from partner_user_master where id=40612
+
+select * from partner_master where id in (select partner from partner_user_master where is_active=true and id in (select user_fkid from auth_group_users where auth_group_fkid=57 and active=true))
+ 
