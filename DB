@@ -168,8 +168,13 @@ MH48AT0635
 "GST_CHARGE"
 "SM_SCHEME_MASTER"
 
+##########################################
+
+msil-common-ad_karuna.sharma2
 
 
+
+##########################################
 
 select * from auth_group_master where name='INBOUND-CRM-L2-DEALER'
 
