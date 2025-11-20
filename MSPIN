@@ -114,3 +114,7 @@ db.aggregate([
 ])
 
 db.adminCommand({ currentOp: true, waitingForLock: true })
+db.adminCommand({
+  currentOp: true,
+  millis_running: { $gt: 5000 }
+})
