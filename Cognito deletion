@@ -1,0 +1,35 @@
+1️⃣ Delete records from partner_attributes
+Check existing records, then delete them.
+ 
+SELECT * FROM public.partner_attributes WHERE partner_id = '181226';
+DELETE FROM public.partner_attributes WHERE partner_id = '181226';
+ 
+2️⃣ Delete records from auth_group_users
+First, verify linked users (from partner_user_master), then delete.
+ 
+SELECT * FROM public.auth_group_users WHERE user_fkid = '152329';
+DELETE FROM public.auth_group_users WHERE user_fkid = '152329';
+ 
+3️⃣ Delete records from partner_relation
+Check and remove any partner relations referencing this partner.
+ 
+SELECT * FROM public.partner_relation WHERE partner2 = '181226';
+DELETE FROM public.partner_relation WHERE partner2 = '181226';
+ 
+4️⃣ Delete records from authorization_attributes
+Verify authorization records, then delete them.
+ 
+SELECT * FROM public.authorization_attributes WHERE partner_id = '181226';
+DELETE FROM public.authorization_attributes WHERE partner_id = '181226';
+ 
+5️⃣ Delete records from partner_user_master
+Check users linked to this partner, then remove them.
+ 
+SELECT * FROM public.partner_user_master WHERE partner = '181226';
+DELETE FROM public.partner_user_master WHERE partner = '181226';
+ 
+6️⃣ Finally, delete the record from partner_master
+Once all dependencies are cleared, delete the main partner record.
+ 
+SELECT * FROM public.partner_master WHERE id = '181226';
+DELETE FROM public.partner_master WHERE id = '181226';
