@@ -70,3 +70,8 @@ select mobile,business_type from customer_master where mobile in
 "8292321819"	"EBOOK"
 "9270184545"	"ICP"
 "8493985029"	"EBOOK"
+
+dms vehicle number-HR03J2000 
+Crm vehicle number-HR976895
+Vin no-MA3EUA61S00G77857
+Ref user id -890603CCM00002
