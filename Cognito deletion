@@ -33,3 +33,22 @@ Once all dependencies are cleared, delete the main partner record.
  
 SELECT * FROM public.partner_master WHERE id = '181226';
 DELETE FROM public.partner_master WHERE id = '181226';
+
+
+select * from public.partner_master where external_id= '102009299@maruticrm.onmicrosoft.com'
+
+
+_DELET IN THIS SEQVANCE_
+select * from public.partner_master where external_id= '102009299@maruticrm.onmicrosoft.com'(ID NEED TO FETCH FROM THIS QUEREY AND DELET ON LAST)
+
+SELECT * FROM public.partner_relation WHERE partner2 = '32456';
+
+SELECT * FROM public.partner_attributes WHERE partner_id = '32456';
+
+SELECT * FROM public.auth_group_users WHERE user_fkid = '7010';
+
+SELECT * FROM public.authorization_attributes WHERE partner_id = '32456';
+
+SELECT * FROM public.partner_user_master WHERE partner = '32456';
+
+select * from public.partner_master where external_id= '102009299@maruticrm.onmicrosoft.com'
