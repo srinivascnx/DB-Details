@@ -24,6 +24,11 @@ pricing_owner
 
 pricing_owner$535
 
+
+pricing_owner_rtd
+pricing-rtd&3943#
+jdbc:postgresql://commonservices-prod-pricing-db.cvm2euk887z9.ap-south-1.rds.amazonaws.com:5432/pricing-rtd?ssl=true&sslmode=require&sslfactory=org.postgresql.ssl.NonValidatingFactory&sslrootcert=/tmp/rds-ca-2019-root.p12
+
 Select distinct * from sync_job_log order by created_date desc limit 25
 
 select * from sync_job_log order by created_date desc limit 10
