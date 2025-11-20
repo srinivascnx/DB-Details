@@ -106,3 +106,9 @@ Remaining MSPIN
 
 
 db.adminCommand({ currentOp: true, $all: true })
+
+db.aggregate([
+  { $currentOp: { allUsers: true, localOps: true } },
+  { $match: { secs_running: { $exists: true } } },
+  { $sort: { secs_running: -1 } }
+])
