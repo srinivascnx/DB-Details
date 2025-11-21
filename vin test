@@ -3,3 +3,17 @@ FROM public.partner_master pm
 JOIN public.partner_user_master pum
     ON pm.id = pum.partner
 WHERE pm.external_id = '102009299@maruticrm.onmicrosoft.com';
+
+
+SELECT 
+    pum.user_name,
+    pum.email,
+    pum.name,
+    pum.phone_number,
+    pm.external_id,
+    pm.id AS partner_id,
+    pum.id AS user_id
+FROM public.partner_master pm
+JOIN public.partner_user_master pum
+    ON pm.id = pum.partner
+WHERE pm.external_id = '102009299@maruticrm.onmicrosoft.com';
