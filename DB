@@ -188,4 +188,11 @@ select * from auth_group_users where auth_group_fkid=57 and active=true
 select * from partner_user_master where id=40612
 
 select * from partner_master where id in (select partner from partner_user_master where is_active=true and id in (select user_fkid from auth_group_users where auth_group_fkid=57 and active=true))
- 
+
+
+{
+  EMP_DESG_CD: { "$in": ["WM", "QM", "SAN", "SMN", "SA", "SRA", "SAW", "SSN", "SAB", "ASD"] },
+  LOC_CD: "BJI",
+  DEALER_MAP_CD: 14980,
+  EMP_LEAVING_DATE: null
+}
