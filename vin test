@@ -19,5 +19,8 @@ JOIN public.partner_user_master pum
 WHERE pm.external_id = '102009299@maruticrm.onmicrosoft.com';
 
 
-select * from partner_master where created_at BETWEEN '2025-11-18' AND '2025-11-29'
-AND external_id ILIKE 'maruticrm.onmicrosoft.com';
+SELECT *
+FROM partner_master
+WHERE created_at BETWEEN '2025-11-18' AND '2025-11-29'
+  AND external_id ILIKE '%maruticrm.onmicrosoft.com%';
+
