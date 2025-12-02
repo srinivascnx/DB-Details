@@ -24,3 +24,7 @@ FROM partner_master
 WHERE created_at BETWEEN '2025-11-18' AND '2025-11-29'
   AND external_id ILIKE '%maruticrm.onmicrosoft.com%';
 
+
+select * from authorization_attributes where application_id='09bfe7ca-5e89-425a-98c9-70075fd3ec27' and partner_id in (select id from partner_master where id in (select partner from partner_user_master where is_active=true and id in (select user_fkid from auth_group_users where auth_group_fkid=57 and active=true))
+)
+
