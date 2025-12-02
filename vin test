@@ -36,3 +36,6 @@ JOIN partner_attributes pa
 WHERE pm.created_at BETWEEN '2025-11-18' AND '2025-11-29'
   AND pm.external_id ILIKE '%maruticrm.onmicrosoft.com%';
 
+
+MH14MT079
+
