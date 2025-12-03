@@ -45,7 +45,7 @@ SELECT * FROM public.partner_relation WHERE partner2 = '32456';
 
 SELECT * FROM public.partner_attributes WHERE partner_id = '32456';
 
-SELECT * FROM public.auth_group_users WHERE user_fkid = '7010';
+SELECT * FROM public.auth_group_users WHERE user_fkid = '7010'; (fkid will be from cognito table)
 
 SELECT * FROM public.authorization_attributes WHERE partner_id = '32456';
 
