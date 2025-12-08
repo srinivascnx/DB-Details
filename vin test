@@ -46,6 +46,10 @@ f8886d4e-c4b7-44b8-86ca-79cf16e43841
 
 harshavardhanreddy.ramaiahgari@concentrix.com  7d28dc25-43dc-4f14-8ed1-17f7b14d00a8
 
+select * from partner_user_master where partner = '94841'
+
+select * from partner_master where external_id = '3144'
+
 
 1393492
 390368
