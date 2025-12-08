@@ -62,3 +62,5 @@ FROM partner_master pm
 JOIN partner_user_master pum
   ON pm.id = pum.partner
 WHERE pm.external_id = '3144';
+
+bbe94c7b-2677-476c-bac6-6d0feca8441e
