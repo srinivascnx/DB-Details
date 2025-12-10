@@ -67,4 +67,8 @@ WHERE pm.external_id in (
 ###########################
 
 
+longitude
+"77.5335673385"
+latitude
+"12.947933301"
 accessoryPaymentGatewayAvailable
